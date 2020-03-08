@@ -29,4 +29,6 @@
 },
 ```
 
-#### Thanks to https://api.le-systeme-solaire.net/en/ for the Open Data, Free API.
+### Thanks to @cowboysdude for continued support.
+
+#### Also, thanks to https://api.le-systeme-solaire.net/en/ for the Open Data, Free API.
