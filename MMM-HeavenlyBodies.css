@@ -1,0 +1,85 @@
+/* Copy and paste any or all of these css entries into your custom.css file inside your
+ * css folder. The functions are annotated to make things as easy as possible for you.
+ * Use any colors you want! Go to - "http://htmlcolorcodes.com/color-picker/"
+ * Pick your color, copy and paste the HEX number. Example - #62FF00 = bright green.
+ */
+
+ .MMM-HeavenlyBodies .header {
+  color: white;
+}
+
+.MMM-HeavenlyBodies .englishName {
+  color: cyan;
+}
+
+.MMM-HeavenlyBodies .semimajorAxis {
+  color: white;
+}
+
+.MMM-HeavenlyBodies .perihelion {
+  color: white;
+}
+
+.MMM-HeavenlyBodies .aphelion {
+  color: white;
+}
+
+.MMM-HeavenlyBodies .eccentricity {
+  color: white;
+}
+
+.MMM-HeavenlyBodies .inclination {
+  color: white;
+}
+
+.MMM-HeavenlyBodies .mass {
+  color: white;
+}
+
+.MMM-HeavenlyBodies .volume {
+  color: white;
+}
+
+.MMM-HeavenlyBodies .density {
+  color: white;
+}
+
+.MMM-HeavenlyBodies .gravity {
+  color: white;
+}
+
+.MMM-HeavenlyBodies .escape {
+  color: white;
+}
+
+.MMM-HeavenlyBodies .meanRadius {
+  color: white;
+}
+
+.MMM-HeavenlyBodies .equaRadius {
+  color: white;
+}
+
+.MMM-HeavenlyBodies .polarRadius {
+  color: white;
+}
+
+.MMM-HeavenlyBodies .sideralOrbit {
+  color: white;
+}
+
+.MMM-HeavenlyBodies .sideralRotation {
+  color: white;
+}
+
+.MMM-HeavenlyBodies .planet {
+  color: white;
+}
+
+.MMM-HeavenlyBodies .discoveredBy {
+  color: white;
+}
+
+.MMM-HeavenlyBodies .discoveryDate {
+  color: white;
+}
