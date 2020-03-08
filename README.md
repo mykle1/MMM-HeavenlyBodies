@@ -10,7 +10,7 @@
 
 ## Installation
 
-* `git clone https://github.com/mykle1/MMM-ATM` into the `~/MagicMirror/modules` directory.
+* `git clone https://github.com/mykle1/MMM-HeavenlyBodies` into the `~/MagicMirror/modules` directory.
 
 * No API key needed! No dependenices needed! No kidding!
 
