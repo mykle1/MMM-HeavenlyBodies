@@ -69,20 +69,20 @@ Module.register("MMM-HeavenlyBodies", {
 
             var semimajorAxis = document.createElement("div");
             semimajorAxis.classList.add("small", "bright", "semimajorAxis");
-            semimajorAxis.innerHTML = "Semimajor Axis = " + Bodies.semimajorAxis + " km";
+            semimajorAxis.innerHTML = "Semimajor Axis = " + Bodies.semimajorAxis.toLocaleString() + " km";
             wrapper.appendChild(semimajorAxis);
 
         if (Bodies.perihelion != 0) {
             var perihelion = document.createElement("div");
             perihelion.classList.add("small", "bright", "perihelion");
-            perihelion.innerHTML = "Perihelion = " + Bodies.perihelion + " km";
+            perihelion.innerHTML = "Perihelion = " + Bodies.perihelion.toLocaleString() + " km";
             wrapper.appendChild(perihelion);
           }
 
         if (Bodies.aphelion != 0) {
             var aphelion = document.createElement("div");
             aphelion.classList.add("small", "bright", "aphelion");
-            aphelion.innerHTML = "Aphelion = " + Bodies.aphelion + " km";
+            aphelion.innerHTML = "Aphelion = " + Bodies.aphelion.toLocaleString() + " km";
             wrapper.appendChild(aphelion);
          }
 
@@ -134,19 +134,19 @@ Module.register("MMM-HeavenlyBodies", {
 
          var meanRadius = document.createElement("div");
          meanRadius.classList.add("small", "bright", "meanRadius");
-         meanRadius.innerHTML = "Mean Radius = " + Bodies.meanRadius + " km";
+         meanRadius.innerHTML = "Mean Radius = " + Bodies.meanRadius.toLocaleString() + " km";
          wrapper.appendChild(meanRadius);
 
 
          var equaRadius = document.createElement("div");
          equaRadius.classList.add("small", "bright", "equaRadius");
-         equaRadius.innerHTML = "Equatorial Radius = " + Bodies.equaRadius + " km";
+         equaRadius.innerHTML = "Equatorial Radius = " + Bodies.equaRadius.toLocaleString() + " km";
          wrapper.appendChild(equaRadius);
 
 
          var polarRadius = document.createElement("div");
          polarRadius.classList.add("small", "bright", "polarRadius");
-         polarRadius.innerHTML = "Polar Radius = " + Bodies.polarRadius + " km";
+         polarRadius.innerHTML = "Polar Radius = " + Bodies.polarRadius.toLocaleString() + " km";
          wrapper.appendChild(polarRadius);
 
 
